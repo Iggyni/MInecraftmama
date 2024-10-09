@@ -1,0 +1,6 @@
+<DOCTYPE html>
+<html>
+
+
+<h1 style=";font-family:verdana;color:gray;border:150px ;text-align:center;font-size:100%;"> Singelplayer er ikke den eneste gamemoden du kan spille. Hvis du vil så kan du spille med venner eller spille på servere. Det er  mange servere du kan spille på for eksempel den mest spilte serveren hypixel. I denne serveren kan du for eksempel spille bed WARs, SkyWars, Murder Mystery og mye mer!                                                                                                                    
+ </h1>
